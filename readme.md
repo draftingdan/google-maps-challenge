@@ -1,15 +1,3 @@
-## Design Link
+## Purpose
 
-https://www.figma.com/file/HuauCfrLa39DV0lK76LLZb/Google-Maps?node-id=0%3A2
-
-## Google Maps API Key
-
-AIzaSyCcwazb-T7zvceyA4VLWVB-eXvwj-XEUIA
-
-**WARNING**
-DO NOT SHARE IT WITH ANYONE
-
-## FontAwesome Link
-
-https://kit.fontawesome.com/c939d0e917.js
-
+This is an instance of the Google Maps challenge by Qazi, done to freashen up JS skills and to play with Google Maps API.
